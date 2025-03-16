@@ -1,0 +1,11 @@
+2025-03-16 11:51:27 File: /home/badhon/Desktop/work Event: /march/watchdog/Untitled Folder CREATE,ISDIR
+2025-03-16 11:51:30 File: /home/badhon/Desktop/work Event: /march/watchdog/Untitled Folder MOVED_FROM,ISDIR
+2025-03-16 11:51:30 File: /home/badhon/Desktop/work Event: /march/watchdog/abc MOVED_TO,ISDIR
+2025-03-16 11:51:36 File: /home/badhon/Desktop/work Event: /march/watchdog/abc/Untitled Document CREATE
+2025-03-16 11:51:36 File: /home/badhon/Desktop/work Event: /march/watchdog/abc/Untitled Document MODIFY
+2025-03-16 11:51:46 File: /home/badhon/Desktop/work Event: /march/watchdog/abc/Untitled Document MOVED_FROM
+2025-03-16 11:51:46 File: /home/badhon/Desktop/work Event: /march/watchdog/abc/touch.txt MOVED_TO
+2025-03-16 11:51:56 File: /home/badhon/Desktop/work Event: /march/watchdog/Untitled Document CREATE
+2025-03-16 11:51:56 File: /home/badhon/Desktop/work Event: /march/watchdog/Untitled Document MODIFY
+2025-03-16 11:52:00 File: /home/badhon/Desktop/work Event: /march/watchdog/Untitled Document MOVED_FROM
+2025-03-16 11:52:00 File: /home/badhon/Desktop/work Event: /march/watchdog/hello.txt MOVED_TO
